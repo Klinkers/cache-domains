@@ -96,7 +96,7 @@
 			"name": "steam",
 			"description": "CDN for steam platform",
 			"domain_files": ["steam.txt"]
-		},
+		}#,
 	#	{
 	#		"name": "uplay",
 	#		"description": "CDN for uplay downloader",
